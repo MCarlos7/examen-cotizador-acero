@@ -1,0 +1,14 @@
+{
+  "name": "cotizador-acero",
+  "version": "1.0.0",
+  "description": "Cotizador sencillo de perfiles de acero (ejercicio practico para practicantes)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/cotizador.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
