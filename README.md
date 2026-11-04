@@ -2,7 +2,7 @@
 
 Este es un pequeño programa que calcula el peso y el precio de un paquete de perfiles de acero (columnas, trabes, largueros, etc.). **Hoy está fallando** y tu tarea es arreglarlo siguiendo un flujo de trabajo normal con Git y GitHub.
 
-Puedes usar cualquier herramienta: Google, documentación, ChatGPT, Claude, Copilot… Lo importante es que entiendas y puedas explicar lo que hiciste.
+Puedes usar cualquier herramienta: Google, documentación, ChatGPT, Claude... Lo importante es que entiendas y puedas explicar lo que hiciste.
 
 ## Requisitos
 
@@ -15,7 +15,7 @@ No hace falta instalar dependencias: el proyecto no usa ninguna.
 ## Tu tarea
 
 1. Haz un **fork** de este repositorio a tu cuenta y **clónalo** en tu computadora. (Si te agregaron como colaborador, puedes clonar este repositorio directamente.)
-2. Crea una **branch** llamada `fix/<tu-nombre>` (por ejemplo `fix/ana-lopez`) y trabaja en ella.
+2. Crea una **branch** llamada `fix/<tu-nombre>` (por ejemplo `fix/ana-marquez`) y trabaja en ese branch.
 3. Ejecuta el programa con `npm start`. Verás un error.
 4. Encuentra el error y corrígelo. Vuelve a ejecutar `npm start` hasta que la cotización se imprima completa.
 5. Haz **commit** de tu corrección con un mensaje descriptivo.
